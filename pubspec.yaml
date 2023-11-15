@@ -1,7 +1,7 @@
 name: device_scan_animation
-description: A new Flutter project.
+description: Device scan animation.
 version: 0.0.1
-homepage:
+homepage: https://github.com/YashMakan/device_scan_animation
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
