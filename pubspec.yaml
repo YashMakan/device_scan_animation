@@ -1,6 +1,6 @@
 name: device_scan_animation
 description: Device scan animation.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/YashMakan/device_scan_animation
 
 environment:
