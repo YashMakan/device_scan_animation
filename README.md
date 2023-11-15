@@ -1,8 +1,7 @@
 ## Device Scan Animation
 
 A package to quickly add nearby device scan animation with customizations.
-
-https://github.com/YashMakan/device_scan_animation/assets/70023200/5008f628-bcf3-40b7-ad88-eadf581c9d56
+![Device Scan Animation Demo](https://raw.githubusercontent.com/YashMakan/device_scan_animation/main/video/demo.gif)
 
 ## Pub.dev
 
