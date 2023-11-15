@@ -22,8 +22,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: DeviceScanWidget(
-          nodeType
-          : ..., // optional
+          nodeType: ..., // optional
           ringColor: ..., // optional
           ringThickness: ..., // optional
           nodeColor: ..., // optional
