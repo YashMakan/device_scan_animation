@@ -90,7 +90,6 @@ class _DeviceScanWidgetState extends State<DeviceScanWidget>
       ..addStatusListener((status) {
         if (status == AnimationStatus.completed ||
             status == AnimationStatus.dismissed) {
-          widget.onInitialize?.call();
           animationController.repeat();
         }
       });
