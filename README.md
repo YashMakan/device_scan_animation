@@ -3,6 +3,11 @@
 A package to quickly add nearby device scan animation with customizations.
 ![Device Scan Animation Demo](https://raw.githubusercontent.com/YashMakan/device_scan_animation/main/video/demo.gif)
 
+## YouTube Video Demonstration
+
+[![Demo Video](https://img.youtube.com/vi/8acLNGIMpws/0.jpg)](https://www.youtube.com/watch?v=8acLNGIMpws)
+
+
 ## Pub.dev
 
 The package is available on pub.dev

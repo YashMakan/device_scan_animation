@@ -13,3 +13,7 @@
 ### 0.0.4
 
 * Minor README.md changes
+
+### 0.0.4
+
+* YT video added in README.md
