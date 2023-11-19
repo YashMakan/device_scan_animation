@@ -99,6 +99,7 @@ class _DeviceScanWidgetState extends State<DeviceScanWidget>
   @override
   void dispose() {
     timer?.cancel();
+    animationController.dispose();
     super.dispose();
   }
 
